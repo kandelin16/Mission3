@@ -14,3 +14,7 @@
 .ninjaDiv {
     display: none;
 }
+
+.curved { 
+    font: italic 20px Arial, serif;
+}
